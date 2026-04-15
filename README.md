@@ -1,3 +1,4 @@
+<div align="center">
 ```
 ███╗   ██╗███████╗████████╗███████╗ ██████╗ █████╗ ███╗   ██╗
 ████╗  ██║██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗████╗  ██║
@@ -5,10 +6,11 @@
 ██║╚██╗██║██╔══╝     ██║   ╚════██║██║     ██╔══██║██║╚██╗██║
 ██║ ╚████║███████╗   ██║   ███████║╚██████╗██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+            Network Recon & Vulnerability Scanner
+         httpx · naabu · nmap · nuclei · brute-force
 
-         Network Recon & Vulnerability Scanner
-    httpx · naabu · nmap · nuclei · brute-force
 ```
+</div>
 
 # 🔍 NetScan — Network Recon & Vulnerability Scanner
 
